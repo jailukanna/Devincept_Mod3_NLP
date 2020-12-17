@@ -1,0 +1,2 @@
+# Devincept_Mod3_NLP
+SKIP GRAM MODEL(PYTORCH)
